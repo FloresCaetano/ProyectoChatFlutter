@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "819765074466",
+    "project_id": "practicamoviles-6794f",
+    "storage_bucket": "practicamoviles-6794f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819765074466:android:983e395beaedffdceb087b",
+        "android_client_info": {
+          "package_name": "com.example.AppChat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPyaVJ94pq5sT3vAvhYpHArmLSPex9pq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819765074466:android:97df8dde47cb1d00eb087b",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPyaVJ94pq5sT3vAvhYpHArmLSPex9pq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
